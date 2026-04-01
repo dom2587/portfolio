@@ -1,3 +1,5 @@
+// this code allows an ESP32 device to be connect to an Ikea air sensor and to be controlled through Home Assistant via ESP Home.
+
 esphome:
   name: study-air-quality-sensor
   friendly_name: study air quality sensor
